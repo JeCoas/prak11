@@ -1,0 +1,8 @@
+D:\c++_haitsam\C# Haitsam\Abstraction_Prak11\Abstraction_Prak11\bin\Debug\Abstraction_Prak11.exe.config
+D:\c++_haitsam\C# Haitsam\Abstraction_Prak11\Abstraction_Prak11\bin\Debug\Abstraction_Prak11.exe
+D:\c++_haitsam\C# Haitsam\Abstraction_Prak11\Abstraction_Prak11\bin\Debug\Abstraction_Prak11.pdb
+D:\c++_haitsam\C# Haitsam\Abstraction_Prak11\Abstraction_Prak11\obj\Debug\Abstraction_Prak11.csproj.AssemblyReference.cache
+D:\c++_haitsam\C# Haitsam\Abstraction_Prak11\Abstraction_Prak11\obj\Debug\Abstraction_Prak11.csproj.SuggestedBindingRedirects.cache
+D:\c++_haitsam\C# Haitsam\Abstraction_Prak11\Abstraction_Prak11\obj\Debug\Abstraction_Prak11.csproj.CoreCompileInputs.cache
+D:\c++_haitsam\C# Haitsam\Abstraction_Prak11\Abstraction_Prak11\obj\Debug\Abstraction_Prak11.exe
+D:\c++_haitsam\C# Haitsam\Abstraction_Prak11\Abstraction_Prak11\obj\Debug\Abstraction_Prak11.pdb
